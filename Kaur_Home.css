@@ -1,0 +1,13 @@
+.jumbotron{
+    background-color: rgb(253, 237, 236)
+}
+
+h1{
+    text-align: center;
+    font-family: "Text_Styles/DancingScript-Bold.ttf", cursive;
+}
+
+img{
+    height: 270px;
+    width: 300px;
+}
