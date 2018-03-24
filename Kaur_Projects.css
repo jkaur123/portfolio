@@ -10,19 +10,24 @@ h1{
 h3{
     text-align: center;
     color: darkblue;
-    font-size: medium;
+    font-size: 30px;
     font-family: "Text_Styles/Indie_Flower";
 }
 
 h5{
     text-align: center;
     color: red; 
-    font-size: medium;
+    font-size: 30px;
     font-family: "Text_Styles/Indie_Flower.zip";
 }
 
 p{
-    text-align: center;
-    font-size: medium;
-    font-family: "Text_Styles/Indie_Flower.zip";
+    font-family: 'Arial';
+    font-size: 17px;
+    text-align: justify
+}
+
+.section{
+    border-bottom-style:hidden;
+    margin-top:1em;
 }
